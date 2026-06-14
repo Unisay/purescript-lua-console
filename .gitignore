@@ -1,8 +1,4 @@
 /.*
 !/.gitignore
-!/.eslintrc.json
 !/.github/
 /output/
-/dist
-package-lock.json
-test/actual_output.txt
