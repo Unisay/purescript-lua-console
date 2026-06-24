@@ -1,5 +1,0 @@
-log
-warn
-error
-info
-debug
